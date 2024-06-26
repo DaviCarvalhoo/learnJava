@@ -16,7 +16,7 @@ public class Aluno {
         bi3 = scan.nextFloat();
         System.out.println("Digite a nota do quarto bimestre: ");
         bi4 = scan.nextFloat();
-        float media = (bi1 + bi2 + bi3 + bi4)/4;
+        float media =  (bi1 + bi2 + bi3 + bi4)/4;
         System.out.println("--##----------##--");
         System.out.println("Nome do aluno: " + aluno + "\nIdade do aluno: " + idade +"\nMedia de notas do aluno: " + media);
         scan.close();
