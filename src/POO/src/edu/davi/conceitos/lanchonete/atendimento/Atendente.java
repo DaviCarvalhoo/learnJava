@@ -1,4 +1,4 @@
-package edu.davi.conceitos.lanchonete.atendimento;
+package POO.src.edu.davi.conceitos.lanchonete.atendimento;
 
 public class Atendente {
     public void servindoMesa() {

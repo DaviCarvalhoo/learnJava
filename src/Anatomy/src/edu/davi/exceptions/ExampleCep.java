@@ -1,4 +1,4 @@
-package edu.davi.exceptions;
+package Anatomy.src.edu.davi.exceptions;
 
 public class ExampleCep {
     public static void main(String[] args) {

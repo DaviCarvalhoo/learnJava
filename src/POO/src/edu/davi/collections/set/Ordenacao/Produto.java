@@ -1,4 +1,4 @@
-package edu.davi.collections.set.Ordenacao;
+package POO.src.edu.davi.collections.set.Ordenacao;
 
 import java.util.Comparator;
 import java.util.Objects;

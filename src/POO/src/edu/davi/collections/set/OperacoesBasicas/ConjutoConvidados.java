@@ -1,4 +1,4 @@
-package edu.davi.collections.set.OperacoesBasicas;
+package POO.src.edu.davi.collections.set.OperacoesBasicas;
 
 import java.util.HashSet;
 import java.util.Set;

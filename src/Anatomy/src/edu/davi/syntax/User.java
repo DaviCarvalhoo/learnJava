@@ -1,4 +1,4 @@
-package edu.davi.syntax;
+package Anatomy.src.edu.davi.syntax;
 
 public class User {
     public static void main(String[] args) {

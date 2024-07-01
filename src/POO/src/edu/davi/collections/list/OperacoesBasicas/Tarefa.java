@@ -1,4 +1,4 @@
-package edu.davi.collections.list.OperacoesBasicas;
+package POO.src.edu.davi.collections.list.OperacoesBasicas;
 
 public class Tarefa {
     private String descricao;

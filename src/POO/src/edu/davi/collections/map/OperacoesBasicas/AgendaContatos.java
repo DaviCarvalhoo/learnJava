@@ -1,4 +1,4 @@
-package edu.davi.collections.map.OperacoesBasicas;
+package POO.src.edu.davi.collections.map.OperacoesBasicas;
 
 import java.util.HashMap;
 import java.util.Map;

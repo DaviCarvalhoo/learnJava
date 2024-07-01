@@ -1,4 +1,4 @@
-package edu.davi.collections.set.Pesquisa;
+package POO.src.edu.davi.collections.set.Pesquisa;
 
 import java.util.HashSet;
 import java.util.Set;

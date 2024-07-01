@@ -1,4 +1,4 @@
-package edu.davi.collections.map.Pesquisa;
+package POO.src.edu.davi.collections.map.Pesquisa;
 
 public class Produto {
       //atributos

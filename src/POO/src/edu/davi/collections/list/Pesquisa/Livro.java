@@ -1,4 +1,4 @@
-package edu.davi.collections.list.Pesquisa;
+package POO.src.edu.davi.collections.list.Pesquisa;
 
 public class Livro {
     private String titulo;

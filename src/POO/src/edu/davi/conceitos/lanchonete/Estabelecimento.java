@@ -1,8 +1,8 @@
-package edu.davi.conceitos.lanchonete;
+package POO.src.edu.davi.conceitos.lanchonete;
 
-import edu.davi.conceitos.lanchonete.area.cliente.Cliente;
-import edu.davi.conceitos.lanchonete.atendimento.Atendente;
-import edu.davi.conceitos.lanchonete.atendimento.cozinha.Cozinheiro;
+import POO.src.edu.davi.conceitos.lanchonete.area.cliente.Cliente;
+import POO.src.edu.davi.conceitos.lanchonete.atendimento.Atendente;
+import POO.src.edu.davi.conceitos.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package edu.davi.stream.example;
+package POO.src.edu.davi.stream.example;
 
 import java.util.Arrays;
 import java.util.List;

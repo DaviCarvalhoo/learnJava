@@ -1,4 +1,4 @@
-package edu.davi.conceitos.ibge;
+package POO.src.edu.davi.conceitos.ibge;
 
 public class SistemaIbge {
     public static void main(String[] args) {

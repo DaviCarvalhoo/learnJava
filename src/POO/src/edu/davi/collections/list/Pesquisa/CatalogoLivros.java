@@ -1,4 +1,4 @@
-package edu.davi.collections.list.Pesquisa;
+package POO.src.edu.davi.collections.list.Pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;

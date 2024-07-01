@@ -1,4 +1,4 @@
-package edu.davi.collections.map.Ordenacao;
+package POO.src.edu.davi.collections.map.Ordenacao;
 
 import java.util.Comparator;
 import java.util.Map;

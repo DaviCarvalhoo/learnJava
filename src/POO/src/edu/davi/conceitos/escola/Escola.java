@@ -1,4 +1,4 @@
-package edu.davi.conceitos.escola;
+package POO.src.edu.davi.conceitos.escola;
 
 public class Escola {
     public static void main(String[] args) {

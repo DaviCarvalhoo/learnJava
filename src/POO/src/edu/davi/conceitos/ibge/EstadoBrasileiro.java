@@ -1,4 +1,4 @@
-package edu.davi.conceitos.ibge;
+package POO.src.edu.davi.conceitos.ibge;
 
 public enum EstadoBrasileiro {
 	SAO_PAULO ("SP","São Paulo"),
